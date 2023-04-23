@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\bin\Debug\To-Do List.exe.config
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\bin\Debug\To-Do List.exe
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\bin\Debug\To-Do List.pdb
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To_Do_List.Form1.resources
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To-Do List.exe
+C:\Users\DELL\Desktop\.Net Projects\To-Do List\To-Do List\obj\Debug\To-Do List.pdb
